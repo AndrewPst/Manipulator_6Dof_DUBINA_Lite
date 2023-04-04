@@ -1,0 +1,6 @@
+[submodule "Software/DRK_designer_of_robot_kinematics"]
+	path = Software/DRK_designer_of_robot_kinematics
+	url = https://github.com/AndrewPst/DRK-designer_of_robot_kinematics.git
+[submodule "Software/stm32/Manipulator_6dof_gcode_os"]
+	path = Software/stm32/Manipulator_6dof_gcode_os
+	url = https://github.com/AndrewPst/Manipulator_6dof_gcode_os.git
