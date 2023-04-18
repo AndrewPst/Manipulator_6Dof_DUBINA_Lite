@@ -11,11 +11,17 @@
   </p>
 </p>
 
-<p align="center">
-  
-![Downloads](https://img.shields.io/github/downloads/AndrewPst/Manipulator_6Dof_DUBINA_Lite/total) ![Contributors](https://img.shields.io/github/contributors/AndrewPst/Manipulator_6Dof_DUBINA_Lite?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/AndrewPst/Manipulator_6Dof_DUBINA_Lite?style=social) ![Issues](https://img.shields.io/github/issues/AndrewPst/Manipulator_6Dof_DUBINA_Lite) ![License](https://img.shields.io/github/license/AndrewPst/Manipulator_6Dof_DUBINA_Lite) 
+-----
 
-</p>
+<div align="center">
+
+  <a>Go to [DRK](https://github.com/AndrewPst/DRK-designer_of_robot_kinematics) / Go to [Dubina OS](https://github.com/AndrewPst/Manipulator_6dof_gcode_os)</a>
+
+  
+![Contributors](https://img.shields.io/github/contributors/AndrewPst/Manipulator_6Dof_DUBINA_Lite?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/AndrewPst/Manipulator_6Dof_DUBINA_Lite?style=social) ![Issues](https://img.shields.io/github/issues/AndrewPst/Manipulator_6Dof_DUBINA_Lite) ![License](https://img.shields.io/github/license/AndrewPst/Manipulator_6Dof_DUBINA_Lite) 
+
+</div>
+
 
 ## Table Of Contents
 
@@ -45,7 +51,7 @@ Design your robot's body yourself or use ready-made models.
 ## Built With
 
 **DRK** created with:
-* [QT Framework](https://www.qt.io/)
+* [Qt Framework](https://www.qt.io/)
 * [MinGW-W64 g++ 12.2 compiler](https://www.mingw-w64.org/)
 * [C++17](https://ru.wikipedia.org/wiki/C%2B%2B17)
 
